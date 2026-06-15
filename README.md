@@ -150,3 +150,6 @@ Motto     : write the detection · automate the response · prove it holds
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0853A,100:5AC8BE&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
+
+<!-- profile README -->
+
