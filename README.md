@@ -124,16 +124,6 @@ Motto     : write the detection · automate the response · prove it holds
 
 ---
 
-## `> ./achievements --unlocked`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadIsmail009&theme=onedark&no-frame=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
-
----
-
 ## `> contributions --render`
 
 <div align="center">
