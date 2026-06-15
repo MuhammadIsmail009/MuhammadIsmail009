@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://raw.githubusercontent.com/MuhammadIsmail009/MuhammadIsmail009/main/hero.png" width="100%" alt="Muhammad Ismail — Cybersecurity Engineer · SOC & Detection · GIK '27" />
 
