@@ -14,6 +14,8 @@ Final-year BS Cybersecurity @ GIK (2027) · PITB SOC alum · incoming Security I
 [![View the live portfolio](https://img.shields.io/badge/▶%20%20VIEW%20THE%20LIVE%20PORTFOLIO-muhammadismail009.github.io-F0853A?style=for-the-badge&labelColor=0B0A09)](https://muhammadismail009.github.io/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--ismail-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B0A09)](https://linkedin.com/in/muhammad-ismail-0a7a763a6)
+[![Instagram](https://img.shields.io/badge/Instagram-muhammad.ismail-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0B0A09)](https://www.instagram.com/muhammad.ismail___/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0B0A09)](https://wa.me/923011016644)
 [![Email](https://img.shields.io/badge/Email-ismailwaqar28@gmail.com-E8722C?style=flat-square&logo=gmail&logoColor=white&labelColor=0B0A09)](mailto:ismailwaqar28@gmail.com)
 
 </div>
