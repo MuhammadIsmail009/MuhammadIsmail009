@@ -85,6 +85,7 @@ Motto     : write the detection · automate the response · prove it holds
 | 🤖 **AI-IDS** | Network intrusion detection — CatBoost + Local Outlier Factor |
 | 🌐 [**Sportify / TurfBook**](https://github.com/kryptbakar/sportify) | Full-stack turf-booking platform — React + Express + PostgreSQL, OIDC RBAC |
 | 🕸️ **Zero-Trust IoT** | NIST SP 800-207 segmented network in Packet Tracer |
+| 📧 [**Email Header Analyzer**](https://github.com/MuhammadIsmail009/email-header-analyzer) | SOC header-forensics tool — independent SPF/DKIM/DMARC re-verification against live DNS, IOC extraction, threat-intel enrichment, explainable YAML risk engine |
 
 ---
 
